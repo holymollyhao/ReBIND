@@ -1,6 +1,6 @@
 # 🔗 REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-based Graph Rewiring
 
-The official implementation of the paper **[REBIND](https://openreview.net/forum?id=WNIEr5kydFs) (ICLR 2024)**, By **[Taewon Kim](https://scholar.google.com/citations?user=MzmAf_4AAAAJ&hl=en)**, **[Hyunjin Seo](https://scholar.google.com/citations?user=MFDOhRUAAAAJ&hl=en)**, Sungsoo Ahn, and Eunho Yang (*: equal contribution)
+The official implementation of the paper **[REBIND](https://openreview.net/forum?id=WNIEr5kydFs) (ICLR 2025)**, By **[Taewon Kim](https://scholar.google.com/citations?user=MzmAf_4AAAAJ&hl=en)**, **[Hyunjin Seo](https://scholar.google.com/citations?user=MFDOhRUAAAAJ&hl=en)**, Sungsoo Ahn, and Eunho Yang (*: equal contribution)
 
 ### TL;DR
 We present a **novel force-based edge-rewiring framework** for ground-state molecular conformation prediction, mitigating the limitation of prior works which have inadequately addressed non-bonded interactions
